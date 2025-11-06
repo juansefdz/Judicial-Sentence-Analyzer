@@ -1,0 +1,7 @@
+{
+  "output_dir": "outputs",
+  "segmentation_patterns": {
+    "asunto": "\\bI\\.\\s*asunto\\b",
+    "consideraciones": "\\bVI\\.\\s*consideraciones\\s+de\\s+la\\s+corte\\b"
+  }
+}

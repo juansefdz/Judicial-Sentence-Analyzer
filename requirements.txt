@@ -1,0 +1,10 @@
+nltk     # Biblioteca de procesamiento de lenguaje natural  (NPL PROCESAMIENTO DE TEXTO)
+spacy    # NLP avanzado, rápido y eficiente
+pydantic # Validación de datos con clases tipo BaseModel  - librería para validar y convertir datos usando clases de Python
+fastapi  # Framework para construir APIs modernas - framework web moderno para construir APIs con Python
+uvicorn  # Servidor ASGI para ejecutar FastAPI
+es_core_news_md @ https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.7.0/es_core_news_md-3.7.0-py3-none-any.whl
+
+
+#PROCESAMIENTO LENGUAJE NATURAL
+
